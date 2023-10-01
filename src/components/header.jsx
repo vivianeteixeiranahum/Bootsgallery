@@ -9,9 +9,9 @@ export default function Header() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="flex-grow-1">
-            <Nav.Link as={NavLink} to="/aquarela" href="aquarela" activeClassName="active">Aquarela</Nav.Link>
-            <Nav.Link as={NavLink} to="/pixel" href="pixel" activeClassName="active">Pixel Arts</Nav.Link>
-            <Nav.Link as={NavLink} to="/pics"  href="pics" activeClassName="active">Fotografias</Nav.Link>
+            <Nav.Link as={NavLink} to="/aquarela" href="aquarela" activeclassname="active">Aquarela</Nav.Link>
+            <Nav.Link as={NavLink} to="/pixel" href="pixel" activeclassname="active">Pixel Arts</Nav.Link>
+            <Nav.Link as={NavLink} to="/pics"  href="pics" activeclassname="active">Fotografias</Nav.Link>
           </Nav>
           <Nav className='justify-content-end'>
             <Nav.Link disabled>Olhe, Aprecie, Inspire-se!</Nav.Link>
