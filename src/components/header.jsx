@@ -1,5 +1,6 @@
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import { NavLink } from 'react-router-dom';
 
 export default function Header() {
   return (
@@ -8,9 +9,9 @@ export default function Header() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="flex-grow-1">
-            <Nav.Link href="aquarela">Aquarela</Nav.Link>
-            <Nav.Link href="pixel">Pixel Arts</Nav.Link>
-            <Nav.Link href="pics">Fotografias</Nav.Link>
+            <Nav.Link as={NavLink} to="/aquarela" href="aquarela" activeClassName="active">Aquarela</Nav.Link>
+            <Nav.Link as={NavLink} to="/pixel" href="pixel" activeClassName="active">Pixel Arts</Nav.Link>
+            <Nav.Link as={NavLink} to="/pics"  href="pics" activeClassName="active">Fotografias</Nav.Link>
           </Nav>
           <Nav className='justify-content-end'>
             <Nav.Link disabled>Olhe, Aprecie, Inspire-se!</Nav.Link>
