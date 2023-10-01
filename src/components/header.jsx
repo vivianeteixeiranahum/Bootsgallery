@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom';
 export default function Header() {
   return (
     <Navbar collapseOnSelect expand="lg" variant='dark' className="bg-dark px-3">
-        <Navbar.Brand href="home">BootsGallery</Navbar.Brand>
+        <Navbar.Brand href="/">BootsGallery</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="flex-grow-1">
