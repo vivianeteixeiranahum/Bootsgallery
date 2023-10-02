@@ -8,7 +8,7 @@ export default function Home() {
     <div style={{
       backgroundImage: `url(${bsImage})`,
     }}>
-      <PageTitle title="BootsGallery" subtitle="Olhe, Aprecie, Inspire-se!" />
+      <PageTitle title="BootsGallery" subtitle="A BootsGallery é um site responsivo feito em React e Bootstrap com o intuito de mostrar imagens para o usuário que está a procura de inspiração" />
       <h3 className="text-center mt-3">Escolha um dos nossos temas!</h3>
       <div className="d-flex flex-column flex-sm-row">
         <RedirectButton
