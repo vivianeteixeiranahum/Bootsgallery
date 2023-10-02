@@ -4,6 +4,7 @@ import bsImage from "../assets/bs.png";
 import PageTitle from "../components/pageTitle";
 
 export default function Home() {
+  document.title = "BootsGallery";
   return (
     <div style={{
       backgroundImage: `url(${bsImage})`,
