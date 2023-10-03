@@ -6,7 +6,9 @@ export default function Image(props) {
       }}
       className="my-3"
       src={props.src}
-      alt={props.alt}>
+      alt={props.alt}
+      loading="lazy"
+      >
       </img>
     )
 
