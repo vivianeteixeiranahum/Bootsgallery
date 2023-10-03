@@ -11,7 +11,7 @@ export default function PageTitle(props){
     className="d-flex flex-column align-items-center justify-content-center"
   >
     <h1 className="text-light">{props.title}</h1>
-    <i className="text-light">{props.subtitle}</i>
+    <i className="text-light w-75 text-center">{props.subtitle}</i>
   </div>
   )
 }
