@@ -12,6 +12,7 @@ export default function Header() {
             <Nav.Link as={NavLink} to="/aquarela" href="aquarela" activeclassname="active">Aquarela</Nav.Link>
             <Nav.Link as={NavLink} to="/pixel" href="pixel" activeclassname="active">Pixel Arts</Nav.Link>
             <Nav.Link as={NavLink} to="/pics"  href="pics" activeclassname="active">Fotografias</Nav.Link>
+            <Nav.Link as={NavLink} to="/releitura"  href="releitura" activeclassname="active">Releituras</Nav.Link>
           </Nav>
           <Nav className='justify-content-end'>
             <Nav.Link disabled>Olhe, Aprecie, Inspire-se!</Nav.Link>

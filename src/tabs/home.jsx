@@ -27,6 +27,11 @@ export default function Home() {
           name="Fotografias"
           image="https://upload.wikimedia.org/wikipedia/commons/8/81/Parque_Eagle_River%2C_Anchorage%2C_Alaska%2C_Estados_Unidos%2C_2017-09-01%2C_DD_02.jpg"
         />
+        <RedirectButton
+          to="../releitura"
+          name="Releituras"
+          image="https://i.pinimg.com/736x/d4/b5/c4/d4b5c4b0aabc56facac1880575ad1356.jpg"
+        />
       </div>
       <Outlet />
     </div>
