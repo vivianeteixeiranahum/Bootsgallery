@@ -6,6 +6,7 @@ import Pixel from "../tabs/pixel";
 import Pics from "../tabs/pics";
 import Releitura from "../tabs/releitura";
 
+
 export default function RoutesRoot() {
   return (
     <BrowserRouter>

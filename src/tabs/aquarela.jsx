@@ -20,7 +20,7 @@ export default function Aquarela() {
       <Image src="https://th.bing.com/th/id/R.626c07b5de82315263e71ac28db7dfef?rik=hCH%2fnBSa15Q6Kg&riu=http%3a%2f%2fimg.elo7.com.br%2fproduct%2foriginal%2f976C9C%2faquarelas-de-girassol-pinturas.jpg&ehk=zhBQeHSL7viNlzn3s4GAOXxh0BQQuIABgZpuCypyFOE%3d&risl=&pid=ImgRaw&r=0" alt="Girsassol em Aquarela" />
       <Image src="https://1.bp.blogspot.com/-cskBTA78940/TVptLtaBAnI/AAAAAAAAAKs/JCurDmHm80k/s1600/barcos.jpg" alt="Lago de Aquarela" />
       <Image src="https://i.pinimg.com/originals/89/f3/bd/89f3bddce6c11b3cf4a1be82f881f68d.jpg" alt="Gato em Aquarela" />
-      <Image src="https://th.bing.com/th/id/OIP.6Km0FhYSz-rk9Y8xzND-CQHaFP?pid=ImgDet&rs=1" alt="Florestas em Aquarelas" />
+      <Image src="https://th.bing.com/th/id/OIP.6Km0FhYSz-rk9Y8xzND-CQHaFP?pid=ImgDet&rs=1" alt="Florestas em Aquarelas"/>
     </section>
 
   <Outlet />

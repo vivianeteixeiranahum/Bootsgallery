@@ -21,7 +21,7 @@ export default function Pics() {
       <Image src="https://th.bing.com/th/id/OIP.tThwM55zLJSb5F2JrCIzpAHaF6?pid=ImgDet&rs=1" alt="Foto fofinha de Gatinho" />
       <Image src="https://3.bp.blogspot.com/-2zXiVaFUodI/WDtA9uJM7JI/AAAAAAAAMa4/QoT9xATCJq4pM8usIAjTMwdZX-uisGM0QCLcB/s1600/Imagem-de-arvore.jpg" alt="Foto de uma linda IPE" />
       <Image src="https://i.pinimg.com/736x/97/94/0d/97940d452ae2b83e5ab1b96b21d537c6.jpg" alt="Foto de Carro bonito" />
-      <Image src="https://th.bing.com/th/id/OIP.Lnf0OLozCdVIxpXfPU0VUwHaG9?pid=ImgDet&rs=1" alt="Foto de maquiagens" />
+      <Image src="https://th.bing.com/th/id/OIP.Lnf0OLozCdVIxpXfPU0VUwHaG9?pid=ImgDet&rs=1" alt="Foto de maquiagens"/>
     </section>
 
   <Outlet />

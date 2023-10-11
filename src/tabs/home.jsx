@@ -30,7 +30,7 @@ export default function Home() {
         <RedirectButton
           to="../releitura"
           name="Releituras"
-          image="https://i.pinimg.com/736x/d4/b5/c4/d4b5c4b0aabc56facac1880575ad1356.jpg"
+          image="https://i.pinimg.com/736x/d4/b5/c4/d4b5c4b0aabc56facac1880575ad1356.jpg" 
         />
       </div>
       <Outlet />

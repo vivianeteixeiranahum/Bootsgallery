@@ -22,7 +22,7 @@ export default function Releitura(){
                 <Image src="https://mott.pe/noticias/wp-content/uploads/2016/01/20-parodias-de-clasicas-pinturas-de-la-historia-2.jpg" alt="Recriação da Pintura da Afrodite com super heróis da Marvel" />
                 <Image src="https://mott.pe/noticias/wp-content/uploads/2016/01/20-parodias-de-clasicas-pinturas-de-la-historia-17.jpg" alt="Recriação da Pintura Las meninas com a Cinderela" />
                 <Image src="https://mott.pe/noticias/wp-content/uploads/2016/01/20-parodias-de-clasicas-pinturas-de-la-historia-12.jpg" alt="Recriação da Pintura La Thérapeute com o Piu Piu" />
-                <Image src="https://mott.pe/noticias/wp-content/uploads/2016/01/20-parodias-de-clasicas-pinturas-de-la-historia-18.jpg" alt="Recriação da Pintura La Galinha Cega com a Bela de a Bela e a Fera" />
+                <Image src="https://mott.pe/noticias/wp-content/uploads/2016/01/20-parodias-de-clasicas-pinturas-de-la-historia-18.jpg" alt="Recriação da Pintura La Galinha Cega com a Bela de a Bela e a Fera"/>
             </section>
             <Outlet/>
         </div>
