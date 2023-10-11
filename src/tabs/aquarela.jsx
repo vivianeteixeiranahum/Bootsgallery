@@ -8,20 +8,19 @@ export default function Aquarela() {
   <div>
     <PageTitle title="Aquarelas" subtitle="Encontre fluidez na arte" background="https://www.publicdomainpictures.net/pictures/470000/nahled/aquarell-textur-hintergrund-kunst-1664627177yqb.jpg" />
     <section className='d-flex flex-row flex-wrap col-lg-12 col-xl-6 mx-auto justify-content-around'>
-      <Image src="https://img.freepik.com/vetores-gratis/fundo-abstrato-com-manchas-de-aquarela_23-2149107181.jpg?w=1380&t=st=1696285440~exp=1696286040~hmac=fe2e3fdc77f25c8a9d63c17304c713bdcdab0d633dbd25f102cf58a8dc82da9a" alt="Um espectro de cor em aquarela, Imagem de Freepik" />
-      <Image src="https://img.freepik.com/vetores-gratis/design-colorido-de-respingos-de-aquarela-com-cores-do-arco-iris_1048-19287.jpg?w=826&t=st=1696285504~exp=1696286104~hmac=8656baa829f046c9efa6f2af3afe6252de2f7062e76cb6cba24ef09f64c69ab2" alt="Corer diversas pingadas no papel, Imagem de kjpargeter no Freepik" />
-      <Image src="https://img.freepik.com/vetores-gratis/fundo-de-natureza-aquarela-pintado-a-mao_23-2148941599.jpg?w=1380&t=st=1696285572~exp=1696286172~hmac=91b52d2b82f76cb786484464c403b2bf04607e48347ae8c3cafa3b42d93e7610" alt="Folhas verde-claro, imagem de Freepik." />
-      <Image src="https://img.freepik.com/vetores-gratis/fundo-abstrato-com-manchas-de-aquarela_23-2149107181.jpg?w=1380&t=st=1696285440~exp=1696286040~hmac=fe2e3fdc77f25c8a9d63c17304c713bdcdab0d633dbd25f102cf58a8dc82da9a" alt="Um espectro de cor em aquarela, Imagem de Freepik" />
-      <Image src="https://img.freepik.com/vetores-gratis/design-colorido-de-respingos-de-aquarela-com-cores-do-arco-iris_1048-19287.jpg?w=826&t=st=1696285504~exp=1696286104~hmac=8656baa829f046c9efa6f2af3afe6252de2f7062e76cb6cba24ef09f64c69ab2" alt="Corer diversas pingadas no papel, Imagem de kjpargeter no Freepik" />
-      <Image src="https://img.freepik.com/vetores-gratis/fundo-de-natureza-aquarela-pintado-a-mao_23-2148941599.jpg?w=1380&t=st=1696285572~exp=1696286172~hmac=91b52d2b82f76cb786484464c403b2bf04607e48347ae8c3cafa3b42d93e7610" alt="Folhas verde-claro, imagem de Freepik." />
-      <Image src="https://img.freepik.com/vetores-gratis/fundo-abstrato-com-manchas-de-aquarela_23-2149107181.jpg?w=1380&t=st=1696285440~exp=1696286040~hmac=fe2e3fdc77f25c8a9d63c17304c713bdcdab0d633dbd25f102cf58a8dc82da9a" alt="Um espectro de cor em aquarela, Imagem de Freepik" />
-      <Image src="https://img.freepik.com/vetores-gratis/design-colorido-de-respingos-de-aquarela-com-cores-do-arco-iris_1048-19287.jpg?w=826&t=st=1696285504~exp=1696286104~hmac=8656baa829f046c9efa6f2af3afe6252de2f7062e76cb6cba24ef09f64c69ab2" alt="Corer diversas pingadas no papel, Imagem de kjpargeter no Freepik" />
-      <Image src="https://img.freepik.com/vetores-gratis/fundo-de-natureza-aquarela-pintado-a-mao_23-2148941599.jpg?w=1380&t=st=1696285572~exp=1696286172~hmac=91b52d2b82f76cb786484464c403b2bf04607e48347ae8c3cafa3b42d93e7610" alt="Folhas verde-claro, imagem de Freepik." />
-      <Image src="https://img.freepik.com/vetores-gratis/fundo-abstrato-com-manchas-de-aquarela_23-2149107181.jpg?w=1380&t=st=1696285440~exp=1696286040~hmac=fe2e3fdc77f25c8a9d63c17304c713bdcdab0d633dbd25f102cf58a8dc82da9a" alt="Um espectro de cor em aquarela, Imagem de Freepik" />
-      <Image src="https://img.freepik.com/vetores-gratis/design-colorido-de-respingos-de-aquarela-com-cores-do-arco-iris_1048-19287.jpg?w=826&t=st=1696285504~exp=1696286104~hmac=8656baa829f046c9efa6f2af3afe6252de2f7062e76cb6cba24ef09f64c69ab2" alt="Corer diversas pingadas no papel, Imagem de kjpargeter no Freepik" />
-      <Image src="https://img.freepik.com/vetores-gratis/fundo-de-natureza-aquarela-pintado-a-mao_23-2148941599.jpg?w=1380&t=st=1696285572~exp=1696286172~hmac=91b52d2b82f76cb786484464c403b2bf04607e48347ae8c3cafa3b42d93e7610" alt="Folhas verde-claro, imagem de Freepik." />
-      <Image src="https://img.freepik.com/vetores-gratis/fundo-abstrato-com-manchas-de-aquarela_23-2149107181.jpg?w=1380&t=st=1696285440~exp=1696286040~hmac=fe2e3fdc77f25c8a9d63c17304c713bdcdab0d633dbd25f102cf58a8dc82da9a" alt="Um espectro de cor em aquarela, Imagem de Freepik" />
-      <Image src="https://img.freepik.com/vetores-gratis/design-colorido-de-respingos-de-aquarela-com-cores-do-arco-iris_1048-19287.jpg?w=826&t=st=1696285504~exp=1696286104~hmac=8656baa829f046c9efa6f2af3afe6252de2f7062e76cb6cba24ef09f64c69ab2" alt="Corer diversas pingadas no papel, Imagem de kjpargeter no Freepik" />
+      <Image src="https://1.bp.blogspot.com/-SeHbZtoE2iY/UUk6-Pwv36I/AAAAAAAAARE/s6r8d0SC41I/s1600/Borboleta.jpg" alt="Borboleta de aquarela com uma flor" />
+      <Image src="https://th.bing.com/th/id/OIP.B8LNvE4IHsAAtLXNUIsnRwAAAA?pid=ImgDet&rs=1" alt="Desenho de Papagaio em aquarela" />
+      <Image src="https://i.pinimg.com/originals/0d/1f/48/0d1f48560f8a52dbadfe03908bc1e40f.jpg" alt="Passaro de aquarela" />
+      <Image src="https://1.bp.blogspot.com/-Q0jQbTFUrU0/TnOZWh9msnI/AAAAAAAAAPk/_D-Pr2fJFsY/s1600/watercolor+painting+sketch+%25283%2529.jpg" alt="Paisagem em aquarela" />
+      <Image src="https://i.pinimg.com/originals/0e/ec/a4/0eeca48e708e77b39968cbd71a86c23e.jpg" alt="Flores De aquarela" />
+      <Image src="https://i.pinimg.com/originals/65/6a/be/656abe59aaf733f97d24fa22a819caf8.jpg" alt="Pequeno Principe em Aquarela" />
+      <Image src="https://th.bing.com/th/id/R.470383022a9545d742d7dbcecd2f276a?rik=KfAkePAqMN1%2f2A&pid=ImgRaw&r=0" alt="Elefante de Aquarela" />
+      <Image src="https://i.pinimg.com/originals/41/45/42/414542feb24d7bb863e88234d7f0fc42.jpg" alt="Mulher em aquarela" />
+      <Image src="https://i.pinimg.com/originals/0c/59/8c/0c598ca884f2a436d40b2e59f9b8bc5f.jpg" alt="Paisagem em aquarela" />
+      <Image src="https://th.bing.com/th/id/R.626c07b5de82315263e71ac28db7dfef?rik=hCH%2fnBSa15Q6Kg&riu=http%3a%2f%2fimg.elo7.com.br%2fproduct%2foriginal%2f976C9C%2faquarelas-de-girassol-pinturas.jpg&ehk=zhBQeHSL7viNlzn3s4GAOXxh0BQQuIABgZpuCypyFOE%3d&risl=&pid=ImgRaw&r=0" alt="Girsassol em Aquarela" />
+      <Image src="https://1.bp.blogspot.com/-cskBTA78940/TVptLtaBAnI/AAAAAAAAAKs/JCurDmHm80k/s1600/barcos.jpg" alt="Lago de Aquarela" />
+      <Image src="https://i.pinimg.com/originals/89/f3/bd/89f3bddce6c11b3cf4a1be82f881f68d.jpg" alt="Gato em Aquarela" />
+      <Image src="https://th.bing.com/th/id/OIP.6Km0FhYSz-rk9Y8xzND-CQHaFP?pid=ImgDet&rs=1" alt="Florestas em Aquarelas" />
     </section>
 
   <Outlet />
